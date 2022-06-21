@@ -10,6 +10,10 @@
     .hide-on-tablet {
         display: none;
     }
+
+    .menu-img {
+        width: 100%;
+    }
 }
 
 /* MOBILE  */

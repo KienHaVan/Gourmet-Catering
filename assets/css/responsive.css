@@ -21,4 +21,8 @@
     .hide-on-mobile {
         display: none;
     }
+
+    .menu-img {
+        width: 100%;
+    }
 }
